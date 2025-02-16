@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap:https://liputankhusus.github.io/Liputan/sitemaps.xml
